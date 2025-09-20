@@ -1,0 +1,32 @@
+header{
+    background-color: aqua;
+    font-size: larger;
+    color: brown;
+}
+
+body{
+    background-color: crimson;
+
+
+
+}
+thead{
+    background-color: whitesmoke;
+
+
+
+}
+
+table{
+    background-color: rgb(192, 97, 97);
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 30px;
+
+}
+
+td{
+    padding: 5px;
+}
