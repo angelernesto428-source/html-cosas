@@ -1,0 +1,22 @@
+/*2️⃣ Estilizando la Biografía ✨
+    - Enunciado: Dale vida a tu bio con CSS.
+    - Requerimientos (CSS): Enlaza un CSS y cambia background-color, color, font-family y border.
+*/
+
+
+
+
+encabezado{
+    text-align: center;
+    }
+
+
+body {
+    background-color: lightcoral;
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 10px;
+
+
+
+}
